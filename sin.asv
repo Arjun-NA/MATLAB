@@ -1,0 +1,9 @@
+a=input('amplitude');
+t=0:.001:1
+x=sin(pi*t)
+plot(t,x);
+t1=1:.001:2;
+x=sin(pi*t)
+plot(t,x);
+
+

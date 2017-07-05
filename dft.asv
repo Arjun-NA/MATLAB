@@ -1,0 +1,9 @@
+clc;
+clear all;
+close all;
+x=input('Enter x : ' );
+N=length(x)
+y1=dit(x, N);
+y2=dif(x,N);
+
+
